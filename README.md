@@ -20,7 +20,7 @@
 ## 授權
 本字型在 IPA 所開發並發佈的 [IPAex ゴシック](https://moji.or.jp/ipafont/) 基礎上衍生，依照 [IPA 開放字型授權條款 1.0 版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授權。  
   使用本字型時，請遵從「IPA 開放字型授權條款 1.0 版」（IPA Font License 1.0 、IPAフォントライセンスv1.0）規定。
-- 根據 IPA Font License 1.0 有關條款，在沒有郵費、存儲媒介費用和手續費的情況下，須免費提供字型檔，不得將字型檔單獨售賣。
+- 根據 IPA Font License 1.0 有關條款，在没有郵費、存儲媒介費用和手續費的情況下，須免費提供字型檔，不得將字型檔單獨售賣。
 - 但凡有任何人使用、複製、修改、分發本字型，或對本字型進行任何符合 IPA Font License 1.0 規定的行爲，使用、下載或行使合約規定權利之接受方，亦視爲同意遵守 IPA Font License 1.0 的一切規定。  
   「IPA字型（IPA Font，IPAフォント）」爲日本「獨立行政法人　情報處理推進機構」（The Information-Technology Promotion Agency, “IPA”）的注册商標。
   
