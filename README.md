@@ -1,4 +1,5 @@
 # YShi-NewHei
+[![最新版](https://img.shields.io/github/release/Steve-Yuu/YShi-NewHei?style=flat-square)](https://github.com/Steve-Yuu/YShi-NewHei/releases)
 ## 總述
 本字體基於IPAex、[霞鶩晰黑](https://github.com/lxgw/LxgwXiHei)等字體改，字形以舊字形、港台字形爲主
 
