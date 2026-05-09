@@ -1,3 +1,4 @@
+說明：由於第一版不夠完善，且未經過可行性測試，易因此出現同質化的問題，且個人精力有限，重啟也許遙遙無期，先前曾提及過幾項與本字體有關的重啟計劃，因爲個人原因未能進行，目前只有zeoseven獨家收錄
 # YShi-NewHei
 [![最新版](https://img.shields.io/github/release/Steve-Yuu/YShi-NewHei?style=flat-square)](https://github.com/Steve-Yuu/YShi-NewHei/releases)
 ## 總述
