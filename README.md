@@ -1,22 +1,17 @@
-說明：由於第一版不夠完善，且未經過可行性測試，易因此出現同質化的問題，且個人精力有限，重啟也許遙遙無期，先前曾提及過幾項與本字體有關的重啟計劃，因爲個人原因未能進行，目前只有zeoseven獨家收錄
+
 # YShi-NewHei
 [![最新版](https://img.shields.io/github/release/Steve-Yuu/YShi-NewHei?style=flat-square)](https://github.com/Steve-Yuu/YShi-NewHei/releases)
 ## 總述
-本字體基於IPAex、[霞鶩晰黑](https://github.com/lxgw/LxgwXiHei)等字體改，字形以舊字形、港台字形爲主
+本字體基於IPAex黑體、[霞鶩晰黑](https://github.com/lxgw/LxgwXiHei)、[霞鶩新晰黑](https://github.com/lxgw/LxgwNeoXiHei)等字體改，以補全古籍印刷通用字規範字表爲主
 
 ## 説明
-1. 本字體不偏向於源規格分離，唯有T版的“真”“爲”“教”等字爲適應對岸常用標準，故分離之
-2. unicode變體序列參見霞鶩晰黑
-3. 各後綴的含義：T版，參考對岸書籍印刷體常用寫法，保留斷筆，基於晰黑MN改；TC版，參考鉛字印刷書籍及對岸常用字形改，基於晰黑CL改
-
+1. 本字體主要目的是補全古籍印刷通用字規範字表的字形
+2. 若要折中舊字形版本，請跳轉[霞鶩晰黑](https://github.com/lxgw/LxgwXiHei)；若需要G標版本，請跳轉[霞鶩新晰黑](https://github.com/lxgw/LxgwNeoXiHei)
+3. 關於該字體的嵌入，請參照[説明](https://github.com/Steve-Yuu/YShiMincho/blob/main/%E8%AA%AC%E6%98%8E.md)
 ## 收字情況&計劃
-- [x] B5
-- [x] 通用規範漢字表
-- [ ] 霞鶩外字表
-- [ ] PR6N
-- [ ] [yshi筆書體](https://github.com/Steve-Yuu/YshiPen-Shuti/tree/main)收錄字（酌情收錄）
-- [ ] HKSCS（酌情收錄）
-- [ ] V0-V2喃字（酌情收錄）
+- [x] 古籍印刷通用字規範字表爲主
+
+（其餘計劃，後續再説）
 
 ## 授權
 本字型在 IPA 所開發並發佈的 [IPAex ゴシック](https://moji.or.jp/ipafont/) 基礎上衍生，依照 [IPA 開放字型授權條款 1.0 版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授權。  
@@ -27,9 +22,8 @@
   
 ## 鳴謝及參考
 - [原始授權字型 IPA Font](https://moji.or.jp/ipafont/)
-- [秋空黑體](https://github.com/ChiuMing-Neko/ChiuKongGothic)
 - [霞鶩晰黑](https://github.com/lxgw/LxgwXiHei)
-- [康熙字典](https://www.kangxizidian.com/)
-- [一點字坊](https://github.com/ichitenfont/)[傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)及[一點明體](https://github.com/ichitenfont/I.Ming)
+- [霞鶩新晰黑](https://github.com/lxgw/LxgwNeoXiHei)
 - [字統網](https://zi.tools/)
+- [古籍印刷通用字規範字表](https://openstd.samr.gov.cn/bzgk/std/showGb?type=online&hcno=52E2DE28D439C1937EE09AE4B5AA615B&request_locale=zh)
 - 漢文博士
