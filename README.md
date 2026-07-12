@@ -6,7 +6,7 @@
 
 ## 説明
 1. 本字體主要目的是補全古籍印刷通用字規範字表的字形
-2. 若要折中舊字形版本，請跳轉[霞鶩晰黑](https://github.com/lxgw/LxgwXiHei)；若需要G標版本，請跳轉[霞鶩新晰黑](https://github.com/lxgw/LxgwNeoXiHei)
+2. 折中舊字形版本，請跳轉[霞鶩晰黑](https://github.com/lxgw/LxgwXiHei)；G標版本，請跳轉[霞鶩新晰黑](https://github.com/lxgw/LxgwNeoXiHei)
 3. 關於該字體的嵌入，請參照[説明](https://github.com/Steve-Yuu/YShiMincho/blob/main/%E8%AA%AC%E6%98%8E.md)
 ## 收字情況&計劃
 - [x] 古籍印刷通用字規範字表爲主
