@@ -1,6 +1,6 @@
 
 # YShi-NewHei
-[![最新版](https://img.shields.io/github/release/Steve-Yuu/YShi-NewHei?style=flat-square)](https://github.com/Steve-Yuu/YShi-NewHei/releases/tag/v1.000)
+[![最新版](https://img.shields.io/github/release/Steve-Yuu/YShi-NewHei?style=flat-square)](https://github.com/Steve-Yuu/YShi-NewHei/releases)
 ## 總述
 本字體基於IPAex黑體、[霞鶩晰黑](https://github.com/lxgw/LxgwXiHei)、[霞鶩新晰黑](https://github.com/lxgw/LxgwNeoXiHei)等字體改，以補全古籍印刷通用字規範字表爲主
 
