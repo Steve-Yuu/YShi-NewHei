@@ -3,6 +3,11 @@
 [![最新版](https://img.shields.io/github/release/Steve-Yuu/YShi-NewHei?style=flat-square)](https://github.com/Steve-Yuu/YShi-NewHei/releases)
 ## 總述
 本字體基於IPAex黑體、[霞鶩晰黑](https://github.com/lxgw/LxgwXiHei)、[霞鶩新晰黑](https://github.com/lxgw/LxgwNeoXiHei)等字體改，以補全古籍印刷通用字規範字表爲主
+![1](https://github.com/Steve-Yuu/YShi-NewHei/blob/main/1.PNG)
+![2](https://github.com/Steve-Yuu/YShi-NewHei/blob/main/2.PNG)
+![3](https://github.com/Steve-Yuu/YShi-NewHei/blob/main/3.PNG)
+![4](https://github.com/Steve-Yuu/YShi-NewHei/blob/main/4.PNG)
+![5](https://github.com/Steve-Yuu/YShi-NewHei/blob/main/5.PNG)
 
 ## 説明
 1. 本字體主要目的是補全古籍印刷通用字規範字表的字形
