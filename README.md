@@ -6,7 +6,7 @@
 ![1](https://github.com/Steve-Yuu/YShi-NewHei/blob/main/1.PNG)
 ![2](https://github.com/Steve-Yuu/YShi-NewHei/blob/main/2.PNG)
 ![3](https://github.com/Steve-Yuu/YShi-NewHei/blob/main/3.PNG)
-![4](https://github.com/Steve-Yuu/YShi-NewHei/blob/main/4.PNG)
+![4](https://github.com/Steve-Yuu/YShi-NewHei/blob/main/%E6%8E%88%E6%9D%83.png)
 ![5](https://github.com/Steve-Yuu/YShi-NewHei/blob/main/5.PNG)
 
 ## 説明
